@@ -41,3 +41,4 @@ Quick set-up:
     - navigate to notebooks and run
  - to close notebooks:
      - ctrl+c in terminal running docker
+     - if browser tab doesn't close, enter different URL and close
