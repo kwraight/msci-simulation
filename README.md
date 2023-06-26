@@ -8,3 +8,7 @@ Useful links:
 
 ---
 
+## Notebooks
+
+Python based Jupyter notebooks for simple analysis and data visualiastion
+
