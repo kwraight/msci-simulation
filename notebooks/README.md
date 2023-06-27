@@ -3,7 +3,7 @@
 Python based Jupyter notebooks for simple analysis and data visualiastion
 
 Useful links:
- - [panads](https://pandas.pydata.org)
+ - [pandas](https://pandas.pydata.org)
  - [altair](https://altair-viz.github.io/index.html)
 
 ---
@@ -11,6 +11,8 @@ Useful links:
 ## Convert Tables
 
 Copy tables from One Note into notebook and format for analysis
+
+__Not currently working in docker__
 
 ---
 
