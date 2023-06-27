@@ -38,7 +38,8 @@ Quick set-up:
 
  - open Jupyter GUI in browser with '127.0.0.1' link, e.g. here: 
     > http://127.0.0.1:8888/?token=e1a72ce91c01d41f010a710e60d31e0070d2398f0c621eb5
-    - navigate to notebooks and run
- - to close notebooks:
-     - ctrl+c in terminal running docker
-     - if browser tab doesn't close, enter different URL and close
+     - __NB__ you must include the token
+ - navigate to notebooks and run
+     - to close notebooks:
+         - ctrl+c in terminal running docker
+         - if browser tab doesn't close, enter different URL and close
