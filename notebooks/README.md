@@ -8,6 +8,12 @@ Useful links:
 
 ---
 
+## Some Instructions
+
+A notebook with some explanation and examples of python packages, pandas DataFrames and altair plotting.
+
+---
+
 ## Convert Tables
 
 Copy tables from One Note into notebook and format for analysis
