@@ -14,6 +14,12 @@ A notebook with some explanation and examples of python packages, pandas DataFra
 
 ---
 
+### Some Instructions
+
+An introductory notebook.  
+
+---
+
 ## Convert Tables
 
 Copy tables from One Note into notebook and format for analysis
