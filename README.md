@@ -14,7 +14,7 @@ Python based Jupyter notebooks for simple analysis and data visualiastion
 
 ---
 
-## Runnning Notebooks with Docker
+## Running Notebooks with Docker
 
 Using docker for Jupyter [instructions](https://towardsdatascience.com/how-to-run-jupyter-notebook-on-docker-7c9748ed209f)
 
